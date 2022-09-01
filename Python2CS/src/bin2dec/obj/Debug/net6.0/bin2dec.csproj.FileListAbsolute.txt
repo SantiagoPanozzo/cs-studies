@@ -1,0 +1,15 @@
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/bin/Debug/net6.0/bin2dec
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/bin/Debug/net6.0/bin2dec.deps.json
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/bin/Debug/net6.0/bin2dec.runtimeconfig.json
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/bin/Debug/net6.0/bin2dec.dll
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/bin/Debug/net6.0/ref/bin2dec.dll
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/bin/Debug/net6.0/bin2dec.pdb
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/obj/Debug/net6.0/bin2dec.csproj.AssemblyReference.cache
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/obj/Debug/net6.0/bin2dec.GeneratedMSBuildEditorConfig.editorconfig
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/obj/Debug/net6.0/bin2dec.AssemblyInfoInputs.cache
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/obj/Debug/net6.0/bin2dec.AssemblyInfo.cs
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/obj/Debug/net6.0/bin2dec.csproj.CoreCompileInputs.cache
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/obj/Debug/net6.0/bin2dec.dll
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/obj/Debug/net6.0/ref/bin2dec.dll
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/obj/Debug/net6.0/bin2dec.pdb
+/home/snowiemischief/Documents/Projects/cs/Python2CS/src/bin2dec/obj/Debug/net6.0/bin2dec.genruntimeconfig.cache

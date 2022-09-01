@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VBHeT2bMsHoQnsNIycNVbErgfVuuAxOWCHfPpKXTHoVIHxcd4MY4ubmLLCluWuxVff5i86dwceF6nd8pZp1fPw==",
+  "success": true,
+  "projectFilePath": "/home/snowiemischief/Documents/Projects/LeapYear/src/LeapYear/LeapYear.csproj",
+  "expectedPackageFiles": [
+    "/home/snowiemischief/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

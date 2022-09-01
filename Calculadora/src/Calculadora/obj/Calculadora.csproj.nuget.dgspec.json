@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/snowiemischief/Documents/Projects/Calculadora/src/Calculadora/Calculadora.csproj": {}
+  },
+  "projects": {
+    "/home/snowiemischief/Documents/Projects/Calculadora/src/Calculadora/Calculadora.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/snowiemischief/Documents/Projects/Calculadora/src/Calculadora/Calculadora.csproj",
+        "projectName": "Calculadora",
+        "projectPath": "/home/snowiemischief/Documents/Projects/Calculadora/src/Calculadora/Calculadora.csproj",
+        "packagesPath": "/home/snowiemischief/.nuget/packages/",
+        "outputPath": "/home/snowiemischief/Documents/Projects/Calculadora/src/Calculadora/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/snowiemischief/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/snowiemischief/Documents/Projects/Calculadora/src/Library/Library.csproj": {
+                "projectPath": "/home/snowiemischief/Documents/Projects/Calculadora/src/Library/Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.8, 6.0.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/snowiemischief/Documents/Projects/Calculadora/src/Library/Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/snowiemischief/Documents/Projects/Calculadora/src/Library/Library.csproj",
+        "projectName": "Library",
+        "projectPath": "/home/snowiemischief/Documents/Projects/Calculadora/src/Library/Library.csproj",
+        "packagesPath": "/home/snowiemischief/.nuget/packages/",
+        "outputPath": "/home/snowiemischief/Documents/Projects/Calculadora/src/Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/snowiemischief/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.8, 6.0.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

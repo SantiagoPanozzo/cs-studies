@@ -1,0 +1,12 @@
+/home/snowiemischief/Documents/Projects/LeapYear/src/Library/bin/Debug/net6.0/Library.deps.json
+/home/snowiemischief/Documents/Projects/LeapYear/src/Library/bin/Debug/net6.0/Library.dll
+/home/snowiemischief/Documents/Projects/LeapYear/src/Library/bin/Debug/net6.0/ref/Library.dll
+/home/snowiemischief/Documents/Projects/LeapYear/src/Library/bin/Debug/net6.0/Library.pdb
+/home/snowiemischief/Documents/Projects/LeapYear/src/Library/obj/Debug/net6.0/Library.csproj.AssemblyReference.cache
+/home/snowiemischief/Documents/Projects/LeapYear/src/Library/obj/Debug/net6.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+/home/snowiemischief/Documents/Projects/LeapYear/src/Library/obj/Debug/net6.0/Library.AssemblyInfoInputs.cache
+/home/snowiemischief/Documents/Projects/LeapYear/src/Library/obj/Debug/net6.0/Library.AssemblyInfo.cs
+/home/snowiemischief/Documents/Projects/LeapYear/src/Library/obj/Debug/net6.0/Library.csproj.CoreCompileInputs.cache
+/home/snowiemischief/Documents/Projects/LeapYear/src/Library/obj/Debug/net6.0/Library.dll
+/home/snowiemischief/Documents/Projects/LeapYear/src/Library/obj/Debug/net6.0/ref/Library.dll
+/home/snowiemischief/Documents/Projects/LeapYear/src/Library/obj/Debug/net6.0/Library.pdb

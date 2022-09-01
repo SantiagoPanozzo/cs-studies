@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IC3g0Nrpjh2hi5ETwHR/r+Phvla5Sf9+CftBZW15tSgKoJMshQHqHrcuvCGSbbttIgYw1pg9abFbS7+/ZClfTA==",
+  "success": true,
+  "projectFilePath": "/home/snowiemischief/Documents/Projects/Calculadora/src/Library/Library.csproj",
+  "expectedPackageFiles": [
+    "/home/snowiemischief/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

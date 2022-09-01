@@ -1,0 +1,15 @@
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/bin/Debug/net6.0/Program
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/bin/Debug/net6.0/Program.deps.json
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/bin/Debug/net6.0/Program.runtimeconfig.json
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/bin/Debug/net6.0/Program.dll
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/bin/Debug/net6.0/ref/Program.dll
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/bin/Debug/net6.0/Program.pdb
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/obj/Debug/net6.0/Program.csproj.AssemblyReference.cache
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/obj/Debug/net6.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/obj/Debug/net6.0/Program.AssemblyInfoInputs.cache
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/obj/Debug/net6.0/Program.AssemblyInfo.cs
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/obj/Debug/net6.0/Program.csproj.CoreCompileInputs.cache
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/obj/Debug/net6.0/Program.dll
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/obj/Debug/net6.0/ref/Program.dll
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/obj/Debug/net6.0/Program.pdb
+/home/snowiemischief/Documents/Projects/cs/proyecto/src/Program/obj/Debug/net6.0/Program.genruntimeconfig.cache

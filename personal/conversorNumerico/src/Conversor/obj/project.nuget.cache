@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KPibt4AZmIuaMT7a8Usp15LSNcf6e8uGKSnqCgRehr+JhHpXFTRODkGeSL13qmhnzgxFVpz3Q3oEsbLcSSM6sQ==",
+  "success": true,
+  "projectFilePath": "/home/snowiemischief/Documents/Projects/cs/personal/conversorNumerico/src/Conversor/Conversor.csproj",
+  "expectedPackageFiles": [
+    "/home/snowiemischief/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
