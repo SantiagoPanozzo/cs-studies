@@ -1,4 +1,9 @@
 **/Debug/**
+Debug
+*/Debug/
+Debug/*
+Debug/**
+**/Debug
 .dll
 .cache
 .assets.cache
